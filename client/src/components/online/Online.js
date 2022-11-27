@@ -1,7 +1,6 @@
 import "./online.css";
 const PF = process.env.REACT_APP_PUBLIC_FOLDER;
 export default function Online({ user }) {
-  console.log(user)
   
   return (
     <div>
