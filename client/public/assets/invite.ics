@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20221129T140000Z
+DTEND:20221129T143000Z
+DTSTAMP:20221129T072205Z
+ORGANIZER;CN=anusha@patilkaki.com:mailto:anusha@patilkaki.com
+UID:0irh6b50i7qadc71jlphmf5hdc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=darsheel@patilkaki.com;X-NUM-GUESTS=0:mailto:darsheel@patilkaki.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=vinit@patilkaki.com;X-NUM-GUESTS=0:mailto:vinit@patilkaki.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=anusha@patilkaki.com;X-NUM-GUESTS=0:mailto:anusha@patilkaki.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sarathsreevilas69@gmail.com;X-NUM-GUESTS=0:mailto:sarathsreevilas69
+ @gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/gei-mbgg-gcv
+X-MICROSOFT-CDO-OWNERAPPTID:1045217020
+CREATED:20221129T071247Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ge
+ i-mbgg-gcv\nOr dial: (US) +1 443-585-0304 PIN: 781509457#\nMore phone numbe
+ rs: https://tel.meet/gei-mbgg-gcv?pin=5352838898480&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20221129T072203Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final round of interview for Tech Associate role at PatilKaki - Sar
+ at
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
